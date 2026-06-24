@@ -1,0 +1,2060 @@
+﻿  Scanning sources for module dependencies...
+  LiteFont.h
+  Compiling...
+  LiteFont.h
+  AimForm.cpp
+  Config.cpp
+  Driver.cpp
+  font_awesome.cpp
+  KeyAuthConfig.cpp
+  MathV.cpp
+  Radar.cpp
+  RadarVec.cpp
+  Vector.cpp
+  Algorithm.cpp
+  console.cpp
+  Data.cpp
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(68,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(70,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(99,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(101,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+  FarsiType.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(117,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'config/Config.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(118,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'config/Config.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(120,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'config/Config.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(121,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'config/Config.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(117,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'AimForm/AimForm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(118,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'AimForm/AimForm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(120,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'AimForm/AimForm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(121,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'AimForm/AimForm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(117,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(118,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(120,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(121,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+  imgui_impl_dx10.cpp
+  imgui_impl_dx11.cpp
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(68,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(70,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(99,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(101,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(68,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(70,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(99,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(101,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(181,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(185,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(189,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(196,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(202,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(207,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(212,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(222,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(227,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(232,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(239,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(246,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(250,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(268,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(290,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(299,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(303,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(308,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(321,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(445,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Algorithm\Algorithm.cpp(50,18): warning C4244: 'initializing': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Algorithm\Algorithm.cpp(51,18): warning C4244: 'initializing': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Algorithm\Algorithm.cpp(82,18): warning C4244: 'initializing': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Algorithm\Algorithm.cpp(83,18): warning C4244: 'initializing': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Algorithm\Algorithm.cpp(169,71): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Algorithm\Algorithm.cpp(170,57): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Algorithm\Algorithm.cpp(175,60): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(181,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(185,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(189,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(196,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(202,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(207,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(212,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(222,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(227,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(232,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(239,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(246,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(250,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(268,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(290,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(299,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(303,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(308,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(321,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(445,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(181,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(185,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(189,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(196,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(202,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(207,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(212,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(222,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(227,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(232,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(239,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(246,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(250,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(268,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(290,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(299,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(303,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(308,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(321,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(445,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(42,44): warning C4312: 'type cast': conversion from 'int' to 'LPCVOID' of greater size
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(101,60): warning C4244: 'argument': conversion from '_Ty' to 'DWORD', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(101,60): warning C4244:         with
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(101,60): warning C4244:         [
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(101,60): warning C4244:             _Ty=DWORD_PTR
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(101,60): warning C4244:         ]
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(104,51): warning C4244: '=': conversion from '_Ty' to 'DWORD', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(104,51): warning C4244:         with
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(104,51): warning C4244:         [
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(104,51): warning C4244:             _Ty=DWORD_PTR
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(104,51): warning C4244:         ]
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(116,27): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'INT'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(116,27): warning C4302: 'type cast': truncation from 'LPVOID' to 'INT'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(118,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(120,48): warning C4312: 'type cast': conversion from 'int' to 'LPCVOID' of greater size
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(121,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(127,45): warning C4312: 'type cast': conversion from 'INT' to 'LPVOID' of greater size
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(89,18):
+          see reference to function template instantiation 'void Utility::WriteMemoryExProtected<double>(DWORD,T)' being compiled
+          with
+          [
+              T=double
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(80,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(134,48): warning C4312: 'type cast': conversion from 'int' to 'LPCVOID' of greater size
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(81,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(143,20): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'int', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(268,50): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(268,31): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(270,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(270,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(272,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(272,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(274,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(274,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(276,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(276,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(278,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(278,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(280,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(280,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(282,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(282,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(284,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(284,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(286,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(286,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(288,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(288,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(290,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(290,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(292,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(292,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(294,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(294,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(296,55): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(296,36): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(232,13): warning C4101: 'Velocity': unreferenced local variable
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(230,13): warning C4101: 'lFoot': unreferenced local variable
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(231,13): warning C4101: 'rFoot': unreferenced local variable
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(213,13): warning C4101: 'ReturnNearest': unreferenced local variable
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(350,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(371,31): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(378,29): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(423,87): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(423,71): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(423,52): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(333,13): warning C4101: 'Dif': unreferenced local variable
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(587,87): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(587,71): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(587,52): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(640,41): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(722,56): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(761,141): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(761,101): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(761,82): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(791,128): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(827,63): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(835,63): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(887,98): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(887,51): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(887,32): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(964,118): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(964,78): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(964,59): warning C4244: 'argument': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(997,55): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(1001,68): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(1047,75): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(1048,71): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(1056,217): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(1078,56): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(913,13): warning C4101: 'Head': unreferenced local variable
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(915,13): warning C4101: 'ScreenAim': unreferenced local variable
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(912,13): warning C4101: 'Aim': unreferenced local variable
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(44,59): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(44,59):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Algorithm\Algorithm.cpp(154,33):
+          see reference to function template instantiation 'T Utility::ReadMemoryEx<FTTransform>(DWORD)' being compiled
+          with
+          [
+              T=FTTransform
+          ]
+  
+  imgui_impl_dx9.cpp
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'AimForm/AimForm.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(89,18):
+          see reference to function template instantiation 'void Utility::WriteMemoryExProtected<double>(DWORD,T)' being compiled
+          with
+          [
+              T=double
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(80,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(81,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(44,59): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+  (compiling source file 'AimForm/AimForm.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(44,59):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(101,26):
+          see reference to function template instantiation 'T Utility::ReadMemoryEx<BYTE>(DWORD)' being compiled
+          with
+          [
+              T=BYTE
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(52,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'AimForm/AimForm.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(52,42):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\AimForm\AimForm.cpp(119,18):
+          see reference to function template instantiation 'void Utility::WriteMemoryEx<INT>(DWORD,T)' being compiled
+          with
+          [
+              T=INT
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\Config.cpp(6,9): warning C4005: 'WRITE_CONFIG_SETTINGS': macro redefinition
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\config.h(30,9):
+      see previous definition of 'WRITE_CONFIG_SETTINGS'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\Config.cpp(8,9): warning C4005: 'WRITE_CONFIG_KEYS': macro redefinition
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\config.h(31,9):
+      see previous definition of 'WRITE_CONFIG_KEYS'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\Config.cpp(9,9): warning C4005: 'READ_CONFIG_SETTINGS': macro redefinition
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\config.h(32,9):
+      see previous definition of 'READ_CONFIG_SETTINGS'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\Config.cpp(11,9): warning C4005: 'READ_CONFIG_SETTINGS_BUF': macro redefinition
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\config.h(33,9):
+      see previous definition of 'READ_CONFIG_SETTINGS_BUF'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\Config.cpp(23,9): warning C4005: 'READ_CONFIG_SETTINGS_STR': macro redefinition
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\config.h(36,9):
+      see previous definition of 'READ_CONFIG_SETTINGS_STR'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\Config.cpp(28,9): warning C4005: 'READ_CONFIG_KEYS': macro redefinition
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\config\config.h(41,9):
+      see previous definition of 'READ_CONFIG_KEYS'
+  
+  imgui_impl_opengl3.cpp
+  imgui_impl_win32.cpp
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(117,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/data/Data.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(118,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/data/Data.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(120,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/data/Data.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(121,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/data/Data.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  dllmain.cpp
+  hook_directx11.cpp
+  hooks.cpp
+  menu.cpp
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(68,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(70,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(99,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(101,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(181,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(185,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(189,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(196,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(202,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(207,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(212,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(222,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(227,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(232,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(239,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(246,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(250,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(268,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(290,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(299,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(303,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(308,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(321,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(445,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+  Setting.cpp
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(2797,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3005,81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3007,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3008,88): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3010,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3424,33): warning C4244: 'argument': conversion from 'SIZE_T' to 'int', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3425,23): warning C4244: 'return': conversion from '_Ty' to 'DWORD', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3425,23): warning C4244:         with
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3425,23): warning C4244:         [
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3425,23): warning C4244:             _Ty=DWORD_PTR
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3425,23): warning C4244:         ]
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3457,44): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3646,66): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3725,30): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3822,41): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3903,31): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(3921,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(4270,69): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(4289,99): warning C4244: '=': conversion from 'unsigned long' to 'FLOAT', possible loss of data
+  Utility.cpp
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/data/Data.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(89,18):
+          see reference to function template instantiation 'void Utility::WriteMemoryExProtected<double>(DWORD,T)' being compiled
+          with
+          [
+              T=double
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(80,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(81,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/data/Data.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(52,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/data/Data.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(52,42):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(2188,22):
+          see reference to function template instantiation 'void Utility::WriteMemoryEx<SettingsLib>(DWORD,T)' being compiled
+          with
+          [
+              T=SettingsLib
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(44,59): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+  (compiling source file 'src/data/Data.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(44,59):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(2710,22):
+          see reference to function template instantiation 'T Utility::ReadMemoryEx<uint32_t>(DWORD)' being compiled
+          with
+          [
+              T=uint32_t
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\FarsiType.cpp(168,37): warning C4267: 'return': conversion from 'size_t' to 'unsigned char', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\FarsiType.cpp(212,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'config/Config.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(89,18):
+          see reference to function template instantiation 'void Utility::WriteMemoryExProtected<double>(DWORD,T)' being compiled
+          with
+          [
+              T=double
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(80,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'config/Config.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(81,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'config/Config.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4813,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'src/data/Data.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4813,18):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(2309,26):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.cpp(2309,26):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'GetTempPathMobilePC'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(812,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(968,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  utils.cpp
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(117,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/dllmain.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(118,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/dllmain.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(120,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/dllmain.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(121,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/dllmain.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+  Teammate.cpp
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(68,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(70,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(99,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(101,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(117,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(118,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(120,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(121,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(117,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/setting/Setting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(118,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/setting/Setting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(120,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/setting/Setting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(121,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/setting/Setting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.cpp(46,101): warning C4018: '>': signed/unsigned mismatch
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.cpp(456,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.cpp(459,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.cpp(480,65): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(68,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(70,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(99,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(101,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(181,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(185,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(189,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Utility/Utility.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(89,18):
+          see reference to function template instantiation 'void Utility::WriteMemoryExProtected<double>(DWORD,T)' being compiled
+          with
+          [
+              T=double
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(80,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(81,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(196,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(202,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(207,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(44,59): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+  (compiling source file 'src/Utility/Utility.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(44,59):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.cpp(480,40):
+          see reference to function template instantiation 'T Utility::ReadMemoryEx<DWORD>(DWORD)' being compiled
+          with
+          [
+              T=DWORD
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(212,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(222,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(227,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(232,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(239,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(246,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(250,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(268,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(290,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(299,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(303,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(308,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(321,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(445,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/dllmain.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(89,18):
+          see reference to function template instantiation 'void Utility::WriteMemoryExProtected<double>(DWORD,T)' being compiled
+          with
+          [
+              T=double
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(80,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(81,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/dllmain.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(68,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(70,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(99,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(101,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(181,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(185,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(189,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(196,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(202,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(207,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(212,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(222,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(227,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(232,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(239,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(246,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(250,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(268,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(290,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(299,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(303,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(308,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(321,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(445,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(117,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/hooks/hooks.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(118,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/hooks/hooks.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(120,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/hooks/hooks.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(121,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/hooks/hooks.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(68,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(70,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(99,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(101,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(181,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(185,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(189,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(196,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(202,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(207,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(212,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(222,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(227,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(232,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(239,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(246,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(250,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(268,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(290,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(299,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(303,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(308,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(321,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(445,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(45,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(45,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(45,67): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(97,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(98,58): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(99,65): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(100,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(101,58): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(117,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(117,65): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(118,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(118,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(119,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(119,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(120,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(120,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(121,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(121,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(122,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(122,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(123,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(123,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(151,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(151,65): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(152,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(152,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(156,58): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(157,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(158,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(159,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(160,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(172,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(173,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(307,58): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(307,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(307,70): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(308,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(308,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(308,72): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(309,70): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(309,76): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(309,82): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(310,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(310,75): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(310,81): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(311,71): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(311,77): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(311,83): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(312,70): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(312,76): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(312,82): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(313,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(313,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(313,74): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(314,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(314,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(314,71): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(315,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(315,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(315,74): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(316,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(316,68): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(316,73): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(317,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(317,68): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(317,73): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(341,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(389,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(389,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\setting\Setting.cpp(410,67): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/setting/Setting.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(89,18):
+          see reference to function template instantiation 'void Utility::WriteMemoryExProtected<double>(DWORD,T)' being compiled
+          with
+          [
+              T=double
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(80,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(81,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/setting/Setting.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(68,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(70,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(99,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(101,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(181,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(185,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(189,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(196,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(202,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(207,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(212,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(222,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(227,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(232,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(239,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(246,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(250,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(268,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(290,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(299,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(303,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(308,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(321,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(445,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\hooks\hooks.cpp(194,20): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/hooks.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(89,18):
+          see reference to function template instantiation 'void Utility::WriteMemoryExProtected<double>(DWORD,T)' being compiled
+          with
+          [
+              T=double
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(80,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(81,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(3,9): warning C4005: 'ICON_MIN_FA': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(7,9):
+      see previous definition of 'ICON_MIN_FA'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(4,9): warning C4005: 'ICON_MAX_FA': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(8,9):
+      see previous definition of 'ICON_MAX_FA'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(293,9): warning C4005: 'ICON_FA_CARAVAN_ALT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(300,9):
+      see previous definition of 'ICON_FA_CARAVAN_ALT'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(44,59): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+  (compiling source file 'src/hooks/hooks.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(44,59):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\hooks\hooks.cpp(450,43):
+          see reference to function template instantiation 'T Utility::ReadMemoryEx<DWORD>(DWORD)' being compiled
+          with
+          [
+              T=DWORD
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(313,9): warning C4005: 'ICON_FA_CAT_SPACE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(320,9):
+      see previous definition of 'ICON_FA_CAT_SPACE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(417,9): warning C4005: 'ICON_FA_COFFEE_POT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(424,9):
+      see previous definition of 'ICON_FA_COFFEE_POT'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(425,9): warning C4005: 'ICON_FA_COMET': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(433,9):
+      see previous definition of 'ICON_FA_COMET'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(611,9): warning C4005: 'ICON_FA_FAN_TABLE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(619,9):
+      see previous definition of 'ICON_FA_FAN_TABLE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(615,9): warning C4005: 'ICON_FA_FAUCET': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(623,9):
+      see previous definition of 'ICON_FA_FAUCET'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(616,9): warning C4005: 'ICON_FA_FAUCET_DRIP': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(624,9):
+      see previous definition of 'ICON_FA_FAUCET_DRIP'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(715,9): warning C4005: 'ICON_FA_GALAXY': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(725,9):
+      see previous definition of 'ICON_FA_GALAXY'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(721,9): warning C4005: 'ICON_FA_GARAGE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(731,9):
+      see previous definition of 'ICON_FA_GARAGE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(722,9): warning C4005: 'ICON_FA_GARAGE_CAR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(732,9):
+      see previous definition of 'ICON_FA_GARAGE_CAR'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(723,9): warning C4005: 'ICON_FA_GARAGE_OPEN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(733,9):
+      see previous definition of 'ICON_FA_GARAGE_OPEN'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(841,9): warning C4005: 'ICON_FA_HEAT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(860,9):
+      see previous definition of 'ICON_FA_HEAT'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(875,9): warning C4005: 'ICON_FA_HOUSE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(894,9):
+      see previous definition of 'ICON_FA_HOUSE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(877,9): warning C4005: 'ICON_FA_HOUSE_DAY': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(896,9):
+      see previous definition of 'ICON_FA_HOUSE_DAY'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(879,9): warning C4005: 'ICON_FA_HOUSE_LEAVE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(898,9):
+      see previous definition of 'ICON_FA_HOUSE_LEAVE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(880,9): warning C4005: 'ICON_FA_HOUSE_NIGHT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(899,9):
+      see previous definition of 'ICON_FA_HOUSE_NIGHT'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(881,9): warning C4005: 'ICON_FA_HOUSE_RETURN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(900,9):
+      see previous definition of 'ICON_FA_HOUSE_RETURN'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(882,9): warning C4005: 'ICON_FA_HOUSE_SIGNAL': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(901,9):
+      see previous definition of 'ICON_FA_HOUSE_SIGNAL'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(938,9): warning C4005: 'ICON_FA_LAMP_DESK': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(958,9):
+      see previous definition of 'ICON_FA_LAMP_DESK'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(939,9): warning C4005: 'ICON_FA_LAMP_FLOOR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(959,9):
+      see previous definition of 'ICON_FA_LAMP_FLOOR'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(966,9): warning C4005: 'ICON_FA_LIGHT_CEILING': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(987,9):
+      see previous definition of 'ICON_FA_LIGHT_CEILING'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(967,9): warning C4005: 'ICON_FA_LIGHT_SWITCH': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(988,9):
+      see previous definition of 'ICON_FA_LIGHT_SWITCH'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(968,9): warning C4005: 'ICON_FA_LIGHT_SWITCH_OFF': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(989,9):
+      see previous definition of 'ICON_FA_LIGHT_SWITCH_OFF'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(969,9): warning C4005: 'ICON_FA_LIGHT_SWITCH_ON': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(990,9):
+      see previous definition of 'ICON_FA_LIGHT_SWITCH_ON'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1056,9): warning C4005: 'ICON_FA_MICROWAVE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1078,9):
+      see previous definition of 'ICON_FA_MICROWAVE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1116,9): warning C4005: 'ICON_FA_OUTLET': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1138,9):
+      see previous definition of 'ICON_FA_OUTLET'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1117,9): warning C4005: 'ICON_FA_OVEN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1139,9):
+      see previous definition of 'ICON_FA_OVEN'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1190,9): warning C4005: 'ICON_FA_PLANET_MOON': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1214,9):
+      see previous definition of 'ICON_FA_PLANET_MOON'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1191,9): warning C4005: 'ICON_FA_PLANET_RINGED': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1215,9):
+      see previous definition of 'ICON_FA_PLANET_RINGED'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1203,9): warning C4005: 'ICON_FA_POLICE_BOX': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1227,9):
+      see previous definition of 'ICON_FA_POLICE_BOX'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1211,9): warning C4005: 'ICON_FA_PORTAL_ENTER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1235,9):
+      see previous definition of 'ICON_FA_PORTAL_ENTER'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1212,9): warning C4005: 'ICON_FA_PORTAL_EXIT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1236,9):
+      see previous definition of 'ICON_FA_PORTAL_EXIT'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1241,9): warning C4005: 'ICON_FA_RADAR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1267,9):
+      see previous definition of 'ICON_FA_RADAR'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1251,9): warning C4005: 'ICON_FA_RAYGUN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1277,9):
+      see previous definition of 'ICON_FA_RAYGUN'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1260,9): warning C4005: 'ICON_FA_REFRIGERATOR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1286,9):
+      see previous definition of 'ICON_FA_REFRIGERATOR'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1279,9): warning C4005: 'ICON_FA_ROCKET_LAUNCH': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1305,9):
+      see previous definition of 'ICON_FA_ROCKET_LAUNCH'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1330,9): warning C4005: 'ICON_FA_SENSOR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1356,9):
+      see previous definition of 'ICON_FA_SENSOR'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1331,9): warning C4005: 'ICON_FA_SENSOR_ALERT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1357,9):
+      see previous definition of 'ICON_FA_SENSOR_ALERT'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1332,9): warning C4005: 'ICON_FA_SENSOR_FIRE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1358,9):
+      see previous definition of 'ICON_FA_SENSOR_FIRE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1333,9): warning C4005: 'ICON_FA_SENSOR_ON': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1359,9):
+      see previous definition of 'ICON_FA_SENSOR_ON'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1334,9): warning C4005: 'ICON_FA_SENSOR_SMOKE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1360,9):
+      see previous definition of 'ICON_FA_SENSOR_SMOKE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1384,9): warning C4005: 'ICON_FA_SIREN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1412,9):
+      see previous definition of 'ICON_FA_SIREN'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1385,9): warning C4005: 'ICON_FA_SIREN_ON': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1413,9):
+      see previous definition of 'ICON_FA_SIREN_ON'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1423,9): warning C4005: 'ICON_FA_SOLAR_SYSTEM': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1452,9):
+      see previous definition of 'ICON_FA_SOLAR_SYSTEM'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1434,9): warning C4005: 'ICON_FA_SORT_CIRCLE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1463,9):
+      see previous definition of 'ICON_FA_SORT_CIRCLE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1435,9): warning C4005: 'ICON_FA_SORT_CIRCLE_DOWN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1464,9):
+      see previous definition of 'ICON_FA_SORT_CIRCLE_DOWN'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1436,9): warning C4005: 'ICON_FA_SORT_CIRCLE_UP': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1465,9):
+      see previous definition of 'ICON_FA_SORT_CIRCLE_UP'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1454,9): warning C4005: 'ICON_FA_SPACE_STATION_MOON': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1483,9):
+      see previous definition of 'ICON_FA_SPACE_STATION_MOON'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1455,9): warning C4005: 'ICON_FA_SPACE_STATION_MOON_ALT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1484,9):
+      see previous definition of 'ICON_FA_SPACE_STATION_MOON_ALT'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1468,9): warning C4005: 'ICON_FA_SPRINKLER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1497,9):
+      see previous definition of 'ICON_FA_SPRINKLER'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1484,9): warning C4005: 'ICON_FA_STAR_SHOOTING': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1513,9):
+      see previous definition of 'ICON_FA_STAR_SHOOTING'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1485,9): warning C4005: 'ICON_FA_STARFIGHTER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1514,9):
+      see previous definition of 'ICON_FA_STARFIGHTER'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1486,9): warning C4005: 'ICON_FA_STARFIGHTER_ALT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1515,9):
+      see previous definition of 'ICON_FA_STARFIGHTER_ALT'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1488,9): warning C4005: 'ICON_FA_STARSHIP': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1517,9):
+      see previous definition of 'ICON_FA_STARSHIP'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1489,9): warning C4005: 'ICON_FA_STARSHIP_FREIGHTER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1518,9):
+      see previous definition of 'ICON_FA_STARSHIP_FREIGHTER'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1525,9): warning C4005: 'ICON_FA_SWORD_LASER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1557,9):
+      see previous definition of 'ICON_FA_SWORD_LASER'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1526,9): warning C4005: 'ICON_FA_SWORD_LASER_ALT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1558,9):
+      see previous definition of 'ICON_FA_SWORD_LASER_ALT'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1528,9): warning C4005: 'ICON_FA_SWORDS_LASER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1560,9):
+      see previous definition of 'ICON_FA_SWORDS_LASER'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1564,9): warning C4005: 'ICON_FA_TELESCOPE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1596,9):
+      see previous definition of 'ICON_FA_TELESCOPE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1565,9): warning C4005: 'ICON_FA_TEMPERATURE_DOWN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1597,9):
+      see previous definition of 'ICON_FA_TEMPERATURE_DOWN'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1570,9): warning C4005: 'ICON_FA_TEMPERATURE_UP': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1602,9):
+      see previous definition of 'ICON_FA_TEMPERATURE_UP'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1631,9): warning C4005: 'ICON_FA_TRAILER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1664,9):
+      see previous definition of 'ICON_FA_TRAILER'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1636,9): warning C4005: 'ICON_FA_TRANSPORTER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1669,9):
+      see previous definition of 'ICON_FA_TRANSPORTER'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1637,9): warning C4005: 'ICON_FA_TRANSPORTER_1': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1670,9):
+      see previous definition of 'ICON_FA_TRANSPORTER_1'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1638,9): warning C4005: 'ICON_FA_TRANSPORTER_2': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1671,9):
+      see previous definition of 'ICON_FA_TRANSPORTER_2'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1639,9): warning C4005: 'ICON_FA_TRANSPORTER_3': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1672,9):
+      see previous definition of 'ICON_FA_TRANSPORTER_3'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1640,9): warning C4005: 'ICON_FA_TRANSPORTER_EMPTY': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1673,9):
+      see previous definition of 'ICON_FA_TRANSPORTER_EMPTY'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1679,9): warning C4005: 'ICON_FA_UFO': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1712,9):
+      see previous definition of 'ICON_FA_UFO'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1680,9): warning C4005: 'ICON_FA_UFO_BEAM': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1713,9):
+      see previous definition of 'ICON_FA_UFO_BEAM'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1698,9): warning C4005: 'ICON_FA_USER_ALIEN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1731,9):
+      see previous definition of 'ICON_FA_USER_ALIEN'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1723,9): warning C4005: 'ICON_FA_USER_ROBOT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1756,9):
+      see previous definition of 'ICON_FA_USER_ROBOT'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1730,9): warning C4005: 'ICON_FA_USER_VISOR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1764,9):
+      see previous definition of 'ICON_FA_USER_VISOR'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1741,9): warning C4005: 'ICON_FA_VACUUM': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1776,9):
+      see previous definition of 'ICON_FA_VACUUM'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1742,9): warning C4005: 'ICON_FA_VACUUM_ROBOT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1777,9):
+      see previous definition of 'ICON_FA_VACUUM_ROBOT'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1807,9): warning C4005: 'ICON_FA_WINDOW_FRAME': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1847,9):
+      see previous definition of 'ICON_FA_WINDOW_FRAME'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1808,9): warning C4005: 'ICON_FA_WINDOW_FRAME_OPEN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\font\font_awesome.h(1848,9):
+      see previous definition of 'ICON_FA_WINDOW_FRAME_OPEN'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(68,70): error C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(69,72): error C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(71,69): error C2059: syntax error: ')'
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(72,71): error C2059: syntax error: ')'
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(79,61): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(87,21): error C2440: 'return': cannot convert from 'int' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(87,21):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string': ambiguous call to overloaded function
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(781,5):
+          could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::nullptr_t)'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(768,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(87,21):
+          while trying to match the argument list '(int)'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(165,83): error C2059: syntax error: ')'
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(166,115): error C2059: syntax error: ')'
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(179,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(183,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(183,33): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(196,68): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(196,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\imgui_notify.h(210,32): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'float', possible loss of data
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\hooks.hpp(6,1): error C1083: Cannot open include file: '../dependencies/imgui/imgui.h': No such file or directory
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(117,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/utils/utils.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(118,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/utils/utils.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(120,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/utils/utils.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\def.h(121,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/utils/utils.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(68,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(69,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(70,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(99,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(100,73): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(101,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(181,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(185,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(189,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(196,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(202,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(207,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(212,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(222,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(227,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(232,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(239,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(246,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(250,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(268,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(290,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(299,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(303,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(308,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(321,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\data\Data.h(445,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\hooks\hooks.cpp(504,1): warning C4715: 'Hooks::Init': not all control paths return a value
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/utils/utils.cpp')
+      D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(79,42):
+      the template instantiation context (the oldest one first) is
+          D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(89,18):
+          see reference to function template instantiation 'void Utility::WriteMemoryExProtected<double>(DWORD,T)' being compiled
+          with
+          [
+              T=double
+          ]
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(80,46): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/utils/utils.cpp')
+  
+D:\LB TOOLS\SRC\4.3 NIX HACK\UniversalHookX\src\Utility\Utility.h(81,42): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file 'src/utils/utils.cpp')
+  

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\obj\\Debug x64\\LiteFont.h.obj",
+            "outputs": [
+                "D:\\LB TOOLS\\SRC\\4.3 NIX HACK\\UniversalHookX\\obj\\Debug x64\\vc143.pdb",
+                ".\\obj\\Debug x64\\",
+                "D:\\LB TOOLS\\SRC\\4.3 NIX HACK\\UniversalHookX\\obj\\Debug x64\\LiteFont.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "font\\LiteFont.h",
+                    "source-path": "d:\\lb tools\\src\\4.3 nix hack\\universalhookx\\font\\litefont.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

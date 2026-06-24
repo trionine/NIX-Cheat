@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\obj\\Debug x64\\LiteFont.obj",
+            "outputs": [
+                ".\\obj\\Debug x64\\LiteFont.h_75AE1A3BD0831732.ifc.dt.module.json",
+                ".\\obj\\Debug x64\\LiteFont.h_75AE1A3BD0831732.ifc.dt.d.json",
+                ".\\obj\\Debug x64\\LiteFont.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "F:\\JOKAR GAY MF\\UniversalHookX\\font\\LiteFont.h",
+                    "source-path": "f:\\jokar gay mf\\universalhookx\\font\\litefont.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

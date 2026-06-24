@@ -1,0 +1,1392 @@
+﻿  AimForm.cpp
+  Config.cpp
+  Driver.cpp
+  font_awesome.cpp
+  LiteFont.h
+  KeyAuthConfig.cpp
+  MathV.cpp
+  Radar.cpp
+  RadarVec.cpp
+  Vector.cpp
+  Algorithm.cpp
+  console.cpp
+  Data.cpp
+  FarsiType.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx10.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  dllmain.cpp
+  hook_directx11.cpp
+  hooks.cpp
+  menu.cpp
+  Setting.cpp
+  Utility.cpp
+  utils.cpp
+  Teammate.cpp
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(111,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'config/Config.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(112,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'config/Config.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(114,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'config/Config.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(115,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'config/Config.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(111,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'AimForm/AimForm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(112,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'AimForm/AimForm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(114,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'AimForm/AimForm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(115,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'AimForm/AimForm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(111,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/data/Data.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(112,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/data/Data.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(114,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/data/Data.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(115,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/data/Data.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(111,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(112,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(114,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(115,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(111,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/dllmain.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(112,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/dllmain.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(114,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/dllmain.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(115,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/dllmain.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(111,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/setting/Setting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(112,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/setting/Setting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(114,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/setting/Setting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(115,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/setting/Setting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(182,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(186,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(190,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(182,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(186,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(190,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(197,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(203,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(208,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(213,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(223,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(228,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(233,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(240,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(197,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(203,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(208,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(247,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(213,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(223,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(251,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(228,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(269,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(233,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(291,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(300,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(304,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(240,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(309,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(322,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(446,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'config/Config.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/Utility/Utility.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(247,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(251,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(269,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(291,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(300,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(304,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(309,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(322,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(446,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'AimForm/AimForm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(182,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(186,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(190,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(197,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(203,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(208,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(213,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(223,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(228,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(233,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(240,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(119,27): warning C4302: 'type cast': truncation from 'LPVOID' to 'INT'
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(247,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(251,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(269,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(291,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(300,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(304,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(309,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(322,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(446,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/data/Data.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(182,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(186,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(190,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(197,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(203,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(208,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(213,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(223,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(228,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(233,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(240,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(247,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(251,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(269,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(291,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(300,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(304,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(309,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(322,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(235,13): warning C4101: 'Velocity': unreferenced local variable
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(233,13): warning C4101: 'lFoot': unreferenced local variable
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(234,13): warning C4101: 'rFoot': unreferenced local variable
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(216,13): warning C4101: 'ReturnNearest': unreferenced local variable
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(446,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/Algorithm/Algorithm.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(336,13): warning C4101: 'Dif': unreferenced local variable
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(802,128): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(1008,55): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(1067,217): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(924,13): warning C4101: 'Head': unreferenced local variable
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(926,13): warning C4101: 'ScreenAim': unreferenced local variable
+F:\JOKAR GAY MF\UniversalHookX\AimForm\AimForm.cpp(923,13): warning C4101: 'Aim': unreferenced local variable
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(111,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/hooks/hooks.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(112,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/hooks/hooks.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(114,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/hooks/hooks.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(115,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/hooks/hooks.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(111,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/utils/utils.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(112,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/utils/utils.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(114,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/utils/utils.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(115,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/utils/utils.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\config\Config.cpp(6,9): warning C4005: 'WRITE_CONFIG_SETTINGS': macro redefinition
+      F:\JOKAR GAY MF\UniversalHookX\config\config.h(30,9):
+      see previous definition of 'WRITE_CONFIG_SETTINGS'
+  
+F:\JOKAR GAY MF\UniversalHookX\config\Config.cpp(8,9): warning C4005: 'WRITE_CONFIG_KEYS': macro redefinition
+      F:\JOKAR GAY MF\UniversalHookX\config\config.h(31,9):
+      see previous definition of 'WRITE_CONFIG_KEYS'
+  
+F:\JOKAR GAY MF\UniversalHookX\config\Config.cpp(9,9): warning C4005: 'READ_CONFIG_SETTINGS': macro redefinition
+      F:\JOKAR GAY MF\UniversalHookX\config\config.h(32,9):
+      see previous definition of 'READ_CONFIG_SETTINGS'
+  
+F:\JOKAR GAY MF\UniversalHookX\config\Config.cpp(11,9): warning C4005: 'READ_CONFIG_SETTINGS_BUF': macro redefinition
+      F:\JOKAR GAY MF\UniversalHookX\config\config.h(33,9):
+      see previous definition of 'READ_CONFIG_SETTINGS_BUF'
+  
+F:\JOKAR GAY MF\UniversalHookX\config\Config.cpp(23,9): warning C4005: 'READ_CONFIG_SETTINGS_STR': macro redefinition
+      F:\JOKAR GAY MF\UniversalHookX\config\config.h(36,9):
+      see previous definition of 'READ_CONFIG_SETTINGS_STR'
+  
+F:\JOKAR GAY MF\UniversalHookX\config\Config.cpp(28,9): warning C4005: 'READ_CONFIG_KEYS': macro redefinition
+      F:\JOKAR GAY MF\UniversalHookX\config\config.h(41,9):
+      see previous definition of 'READ_CONFIG_KEYS'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(111,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(112,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(114,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\def.h(115,9): warning C4005: 'HIWORD': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(205,9):
+      see previous definition of 'HIWORD'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.cpp(1564,66): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.cpp(1638,30): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.cpp(1784,31): warning C4804: '<': unsafe use of type 'bool' in operation
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(182,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(186,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(190,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(197,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(203,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(208,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(213,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(223,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(228,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(233,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(240,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(182,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(186,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(190,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(247,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(251,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(269,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(291,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(300,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(304,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(309,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(322,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(446,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/setting/Setting.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(197,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(203,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(208,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(213,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(223,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(228,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(233,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(240,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(247,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(251,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(269,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(291,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(300,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(304,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(309,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(322,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(446,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/dllmain.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(182,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(186,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(190,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(197,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(203,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(208,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(213,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(223,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(228,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(233,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(240,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(247,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(251,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(269,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(291,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(300,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(304,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(309,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(322,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(446,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/hooks/hooks.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(182,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(186,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(190,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(197,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(203,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(208,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(213,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(223,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(228,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(233,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(240,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(247,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(251,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(269,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(291,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(300,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(304,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(309,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(322,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(446,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(64,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\Utility\Utility.h(95,34): warning C4101: 'buffer': unreferenced local variable
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(84,15): warning C4091: 'extern ': ignored on left of 'SpecialName' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(88,15): warning C4091: 'extern ': ignored on left of 'VisibleCheckBone' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(105,15): warning C4091: 'extern ': ignored on left of 'LinearColor' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(182,15): warning C4091: 'extern ': ignored on left of 'TempEsp' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(186,15): warning C4091: 'extern ': ignored on left of 'GrenadeTime' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(190,15): warning C4091: 'extern ': ignored on left of 'Alerts' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(197,15): warning C4091: 'extern ': ignored on left of 'Item' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(203,15): warning C4091: 'extern ': ignored on left of 'ARNearest' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(208,15): warning C4091: 'extern ': ignored on left of 'DevMode' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(213,15): warning C4091: 'extern ': ignored on left of 'NamedCache' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(223,15): warning C4091: 'extern ': ignored on left of 'ScopeWeapon' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(228,15): warning C4091: 'extern ': ignored on left of 'CachedPosition' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(233,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Class' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(240,15): warning C4091: 'extern ': ignored on left of '_Mod_Skin_Effect_Class' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(247,15): warning C4091: 'extern ': ignored on left of 'BombPosition' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(251,15): warning C4091: 'extern ': ignored on left of 'docxuong' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(269,15): warning C4091: 'extern ': ignored on left of 'checknup' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(291,15): warning C4091: 'extern ': ignored on left of 'GameData' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(300,15): warning C4091: 'extern ': ignored on left of 'SkeletonRead' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(304,15): warning C4091: 'extern ': ignored on left of 'ModMSG' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(309,15): warning C4091: 'extern ': ignored on left of 'VehicleMod' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(322,15): warning C4091: 'extern ': ignored on left of 'DeadBoxMod' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\data\Data.h(446,15): warning C4091: 'extern ': ignored on left of 'PlayerStruct' when no variable is declared
+  (compiling source file 'src/utils/utils.cpp')
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(3,9): warning C4005: 'ICON_MIN_FA': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(7,9):
+      see previous definition of 'ICON_MIN_FA'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(4,9): warning C4005: 'ICON_MAX_FA': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(8,9):
+      see previous definition of 'ICON_MAX_FA'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(293,9): warning C4005: 'ICON_FA_CARAVAN_ALT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(300,9):
+      see previous definition of 'ICON_FA_CARAVAN_ALT'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(313,9): warning C4005: 'ICON_FA_CAT_SPACE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(320,9):
+      see previous definition of 'ICON_FA_CAT_SPACE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(417,9): warning C4005: 'ICON_FA_COFFEE_POT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(424,9):
+      see previous definition of 'ICON_FA_COFFEE_POT'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(425,9): warning C4005: 'ICON_FA_COMET': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(433,9):
+      see previous definition of 'ICON_FA_COMET'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(611,9): warning C4005: 'ICON_FA_FAN_TABLE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(619,9):
+      see previous definition of 'ICON_FA_FAN_TABLE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(615,9): warning C4005: 'ICON_FA_FAUCET': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(623,9):
+      see previous definition of 'ICON_FA_FAUCET'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(616,9): warning C4005: 'ICON_FA_FAUCET_DRIP': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(624,9):
+      see previous definition of 'ICON_FA_FAUCET_DRIP'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(715,9): warning C4005: 'ICON_FA_GALAXY': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(725,9):
+      see previous definition of 'ICON_FA_GALAXY'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(721,9): warning C4005: 'ICON_FA_GARAGE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(731,9):
+      see previous definition of 'ICON_FA_GARAGE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(722,9): warning C4005: 'ICON_FA_GARAGE_CAR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(732,9):
+      see previous definition of 'ICON_FA_GARAGE_CAR'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(723,9): warning C4005: 'ICON_FA_GARAGE_OPEN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(733,9):
+      see previous definition of 'ICON_FA_GARAGE_OPEN'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(841,9): warning C4005: 'ICON_FA_HEAT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(860,9):
+      see previous definition of 'ICON_FA_HEAT'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(875,9): warning C4005: 'ICON_FA_HOUSE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(894,9):
+      see previous definition of 'ICON_FA_HOUSE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(877,9): warning C4005: 'ICON_FA_HOUSE_DAY': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(896,9):
+      see previous definition of 'ICON_FA_HOUSE_DAY'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(879,9): warning C4005: 'ICON_FA_HOUSE_LEAVE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(898,9):
+      see previous definition of 'ICON_FA_HOUSE_LEAVE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(880,9): warning C4005: 'ICON_FA_HOUSE_NIGHT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(899,9):
+      see previous definition of 'ICON_FA_HOUSE_NIGHT'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(881,9): warning C4005: 'ICON_FA_HOUSE_RETURN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(900,9):
+      see previous definition of 'ICON_FA_HOUSE_RETURN'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(882,9): warning C4005: 'ICON_FA_HOUSE_SIGNAL': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(901,9):
+      see previous definition of 'ICON_FA_HOUSE_SIGNAL'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(938,9): warning C4005: 'ICON_FA_LAMP_DESK': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(958,9):
+      see previous definition of 'ICON_FA_LAMP_DESK'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(939,9): warning C4005: 'ICON_FA_LAMP_FLOOR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(959,9):
+      see previous definition of 'ICON_FA_LAMP_FLOOR'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(966,9): warning C4005: 'ICON_FA_LIGHT_CEILING': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(987,9):
+      see previous definition of 'ICON_FA_LIGHT_CEILING'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(967,9): warning C4005: 'ICON_FA_LIGHT_SWITCH': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(988,9):
+      see previous definition of 'ICON_FA_LIGHT_SWITCH'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(968,9): warning C4005: 'ICON_FA_LIGHT_SWITCH_OFF': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(989,9):
+      see previous definition of 'ICON_FA_LIGHT_SWITCH_OFF'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(969,9): warning C4005: 'ICON_FA_LIGHT_SWITCH_ON': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(990,9):
+      see previous definition of 'ICON_FA_LIGHT_SWITCH_ON'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1056,9): warning C4005: 'ICON_FA_MICROWAVE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1078,9):
+      see previous definition of 'ICON_FA_MICROWAVE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1116,9): warning C4005: 'ICON_FA_OUTLET': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1138,9):
+      see previous definition of 'ICON_FA_OUTLET'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1117,9): warning C4005: 'ICON_FA_OVEN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1139,9):
+      see previous definition of 'ICON_FA_OVEN'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1190,9): warning C4005: 'ICON_FA_PLANET_MOON': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1214,9):
+      see previous definition of 'ICON_FA_PLANET_MOON'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1191,9): warning C4005: 'ICON_FA_PLANET_RINGED': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1215,9):
+      see previous definition of 'ICON_FA_PLANET_RINGED'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1203,9): warning C4005: 'ICON_FA_POLICE_BOX': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1227,9):
+      see previous definition of 'ICON_FA_POLICE_BOX'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1211,9): warning C4005: 'ICON_FA_PORTAL_ENTER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1235,9):
+      see previous definition of 'ICON_FA_PORTAL_ENTER'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1212,9): warning C4005: 'ICON_FA_PORTAL_EXIT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1236,9):
+      see previous definition of 'ICON_FA_PORTAL_EXIT'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1241,9): warning C4005: 'ICON_FA_RADAR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1267,9):
+      see previous definition of 'ICON_FA_RADAR'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1251,9): warning C4005: 'ICON_FA_RAYGUN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1277,9):
+      see previous definition of 'ICON_FA_RAYGUN'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1260,9): warning C4005: 'ICON_FA_REFRIGERATOR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1286,9):
+      see previous definition of 'ICON_FA_REFRIGERATOR'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1279,9): warning C4005: 'ICON_FA_ROCKET_LAUNCH': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1305,9):
+      see previous definition of 'ICON_FA_ROCKET_LAUNCH'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1330,9): warning C4005: 'ICON_FA_SENSOR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1356,9):
+      see previous definition of 'ICON_FA_SENSOR'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1331,9): warning C4005: 'ICON_FA_SENSOR_ALERT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1357,9):
+      see previous definition of 'ICON_FA_SENSOR_ALERT'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1332,9): warning C4005: 'ICON_FA_SENSOR_FIRE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1358,9):
+      see previous definition of 'ICON_FA_SENSOR_FIRE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1333,9): warning C4005: 'ICON_FA_SENSOR_ON': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1359,9):
+      see previous definition of 'ICON_FA_SENSOR_ON'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1334,9): warning C4005: 'ICON_FA_SENSOR_SMOKE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1360,9):
+      see previous definition of 'ICON_FA_SENSOR_SMOKE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1384,9): warning C4005: 'ICON_FA_SIREN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1412,9):
+      see previous definition of 'ICON_FA_SIREN'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1385,9): warning C4005: 'ICON_FA_SIREN_ON': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1413,9):
+      see previous definition of 'ICON_FA_SIREN_ON'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1423,9): warning C4005: 'ICON_FA_SOLAR_SYSTEM': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1452,9):
+      see previous definition of 'ICON_FA_SOLAR_SYSTEM'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1434,9): warning C4005: 'ICON_FA_SORT_CIRCLE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1463,9):
+      see previous definition of 'ICON_FA_SORT_CIRCLE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1435,9): warning C4005: 'ICON_FA_SORT_CIRCLE_DOWN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1464,9):
+      see previous definition of 'ICON_FA_SORT_CIRCLE_DOWN'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1436,9): warning C4005: 'ICON_FA_SORT_CIRCLE_UP': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1465,9):
+      see previous definition of 'ICON_FA_SORT_CIRCLE_UP'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1454,9): warning C4005: 'ICON_FA_SPACE_STATION_MOON': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1483,9):
+      see previous definition of 'ICON_FA_SPACE_STATION_MOON'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1455,9): warning C4005: 'ICON_FA_SPACE_STATION_MOON_ALT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1484,9):
+      see previous definition of 'ICON_FA_SPACE_STATION_MOON_ALT'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1468,9): warning C4005: 'ICON_FA_SPRINKLER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1497,9):
+      see previous definition of 'ICON_FA_SPRINKLER'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1484,9): warning C4005: 'ICON_FA_STAR_SHOOTING': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1513,9):
+      see previous definition of 'ICON_FA_STAR_SHOOTING'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1485,9): warning C4005: 'ICON_FA_STARFIGHTER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1514,9):
+      see previous definition of 'ICON_FA_STARFIGHTER'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1486,9): warning C4005: 'ICON_FA_STARFIGHTER_ALT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1515,9):
+      see previous definition of 'ICON_FA_STARFIGHTER_ALT'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1488,9): warning C4005: 'ICON_FA_STARSHIP': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1517,9):
+      see previous definition of 'ICON_FA_STARSHIP'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1489,9): warning C4005: 'ICON_FA_STARSHIP_FREIGHTER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1518,9):
+      see previous definition of 'ICON_FA_STARSHIP_FREIGHTER'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1525,9): warning C4005: 'ICON_FA_SWORD_LASER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1557,9):
+      see previous definition of 'ICON_FA_SWORD_LASER'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1526,9): warning C4005: 'ICON_FA_SWORD_LASER_ALT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1558,9):
+      see previous definition of 'ICON_FA_SWORD_LASER_ALT'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1528,9): warning C4005: 'ICON_FA_SWORDS_LASER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1560,9):
+      see previous definition of 'ICON_FA_SWORDS_LASER'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1564,9): warning C4005: 'ICON_FA_TELESCOPE': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1596,9):
+      see previous definition of 'ICON_FA_TELESCOPE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1565,9): warning C4005: 'ICON_FA_TEMPERATURE_DOWN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1597,9):
+      see previous definition of 'ICON_FA_TEMPERATURE_DOWN'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1570,9): warning C4005: 'ICON_FA_TEMPERATURE_UP': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1602,9):
+      see previous definition of 'ICON_FA_TEMPERATURE_UP'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1631,9): warning C4005: 'ICON_FA_TRAILER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1664,9):
+      see previous definition of 'ICON_FA_TRAILER'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1636,9): warning C4005: 'ICON_FA_TRANSPORTER': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1669,9):
+      see previous definition of 'ICON_FA_TRANSPORTER'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1637,9): warning C4005: 'ICON_FA_TRANSPORTER_1': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1670,9):
+      see previous definition of 'ICON_FA_TRANSPORTER_1'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1638,9): warning C4005: 'ICON_FA_TRANSPORTER_2': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1671,9):
+      see previous definition of 'ICON_FA_TRANSPORTER_2'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1639,9): warning C4005: 'ICON_FA_TRANSPORTER_3': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1672,9):
+      see previous definition of 'ICON_FA_TRANSPORTER_3'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1640,9): warning C4005: 'ICON_FA_TRANSPORTER_EMPTY': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1673,9):
+      see previous definition of 'ICON_FA_TRANSPORTER_EMPTY'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1679,9): warning C4005: 'ICON_FA_UFO': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1712,9):
+      see previous definition of 'ICON_FA_UFO'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1680,9): warning C4005: 'ICON_FA_UFO_BEAM': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1713,9):
+      see previous definition of 'ICON_FA_UFO_BEAM'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1698,9): warning C4005: 'ICON_FA_USER_ALIEN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1731,9):
+      see previous definition of 'ICON_FA_USER_ALIEN'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1723,9): warning C4005: 'ICON_FA_USER_ROBOT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1756,9):
+      see previous definition of 'ICON_FA_USER_ROBOT'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1730,9): warning C4005: 'ICON_FA_USER_VISOR': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1764,9):
+      see previous definition of 'ICON_FA_USER_VISOR'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1741,9): warning C4005: 'ICON_FA_VACUUM': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1776,9):
+      see previous definition of 'ICON_FA_VACUUM'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1742,9): warning C4005: 'ICON_FA_VACUUM_ROBOT': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1777,9):
+      see previous definition of 'ICON_FA_VACUUM_ROBOT'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1807,9): warning C4005: 'ICON_FA_WINDOW_FRAME': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1847,9):
+      see previous definition of 'ICON_FA_WINDOW_FRAME'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\dependencies\imgui\font_awesome_5.h(1808,9): warning C4005: 'ICON_FA_WINDOW_FRAME_OPEN': macro redefinition
+  (compiling source file 'src/hooks/backend/dx11/hook_directx11.cpp')
+      F:\JOKAR GAY MF\UniversalHookX\font\font_awesome.h(1848,9):
+      see previous definition of 'ICON_FA_WINDOW_FRAME_OPEN'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\hooks\backend\dx11\hook_directx11.cpp(109,9): warning C4005: 'WDA_NONE': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(4779,9):
+      see previous definition of 'WDA_NONE'
+  
+F:\JOKAR GAY MF\UniversalHookX\src\hooks\backend\dx11\hook_directx11.cpp(1285,9): warning C4101: 'Distance': unreferenced local variable
+F:\JOKAR GAY MF\UniversalHookX\src\hooks\backend\dx11\hook_directx11.cpp(1297,17): warning C4101: 'Curvec3': unreferenced local variable
+F:\JOKAR GAY MF\UniversalHookX\src\hooks\backend\dx11\hook_directx11.cpp(4879,41): warning C4101: 'LastPos': unreferenced local variable
+F:\JOKAR GAY MF\UniversalHookX\src\hooks\backend\dx11\hook_directx11.cpp(4880,41): warning C4101: 'LastPosScreen': unreferenced local variable
+  imgui_impl_dx12.cpp
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+F:\JOKAR GAY MF\UniversalHookX\src\imgui_notify.h(150): warning C4715: 'ImGuiToast::get_icon': not all control paths return a value
+F:\JOKAR GAY MF\UniversalHookX\src\imgui_notify.h(157): warning C4172: returning address of local variable or temporary
+F:\JOKAR GAY MF\UniversalHookX\src\imgui_notify.h(159): warning C4172: returning address of local variable or temporary
+F:\JOKAR GAY MF\UniversalHookX\src\imgui_notify.h(161): warning C4172: returning address of local variable or temporary
+F:\JOKAR GAY MF\UniversalHookX\src\imgui_notify.h(163): warning C4172: returning address of local variable or temporary
+F:\JOKAR GAY MF\UniversalHookX\src\imgui_notify.h(222): warning C4715: 'ImGui::BufferingBar': not all control paths return a value
+F:\JOKAR GAY MF\UniversalHookX\src\hooks\hooks.cpp(498): warning C4715: 'Hooks::Init': not all control paths return a value
+  All 6832 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+library_x64.lib(core.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(core.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(open.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(open.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(codecs.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(codecs.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(randombytes.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(randombytes.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(runtime.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(runtime.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(utils.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(utils.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(generichash_blake2b.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(generichash_blake2b.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(onetimeauth_poly1305.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(onetimeauth_poly1305.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(argon2-core.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(argon2-core.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(scalarmult_curve25519.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(scalarmult_curve25519.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(stream_chacha20.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(stream_chacha20.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(stream_salsa20.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(stream_salsa20.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aead_aegis128l.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aead_aegis128l.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aead_aegis256.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aead_aegis256.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(hash_sha512_cp.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(hash_sha512_cp.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(verify.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(verify.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(sign.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(sign.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(ed25519_ref10.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(ed25519_ref10.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(randombytes_sysrandom.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(randombytes_sysrandom.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-ref.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(poly1305_donna.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(poly1305_donna.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(argon2-fill-block-ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(argon2-fill-block-ref.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(argon2-fill-block-avx512f.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(argon2-fill-block-avx512f.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(argon2-fill-block-avx2.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(argon2-fill-block-avx2.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(argon2-fill-block-ssse3.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(argon2-fill-block-ssse3.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-long.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-long.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(x25519_ref10.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(x25519_ref10.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(chacha20_ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(chacha20_ref.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(chacha20_dolbeau-avx2.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(chacha20_dolbeau-avx2.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(chacha20_dolbeau-ssse3.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(chacha20_dolbeau-ssse3.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(salsa20_ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(salsa20_ref.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(salsa20_xmm6int-sse2.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(salsa20_xmm6int-sse2.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(salsa20_xmm6int-avx2.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(salsa20_xmm6int-avx2.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aegis128l_soft.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aegis128l_soft.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aegis128l_aesni.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aegis128l_aesni.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aegis256_soft.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aegis256_soft.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aegis256_aesni.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aegis256_aesni.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-compress-ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-compress-ref.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-compress-ssse3.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-compress-ssse3.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-compress-sse41.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-compress-sse41.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-compress-avx2.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-compress-avx2.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(core_salsa_ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(core_salsa_ref.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(softaes.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(softaes.obj)' or at 'F:\JOKAR GAY MF\UniversalHookX\bin\libsodium.pdb'; linking object as if no debug info
+  UniversalHookX.vcxproj -> F:\JOKAR GAY MF\UniversalHookX\bin\module.dll

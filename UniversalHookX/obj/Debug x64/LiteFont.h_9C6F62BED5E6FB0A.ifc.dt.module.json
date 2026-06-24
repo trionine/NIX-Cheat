@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\obj\\Debug x64\\LiteFont.obj",
+            "outputs": [
+                ".\\obj\\Debug x64\\LiteFont.h_9C6F62BED5E6FB0A.ifc.dt.module.json",
+                ".\\obj\\Debug x64\\LiteFont.h_9C6F62BED5E6FB0A.ifc.dt.d.json",
+                ".\\obj\\Debug x64\\LiteFont.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\HaMaxKRD\\Desktop\\4.4 - HACK\\UniversalHookX\\font\\LiteFont.h",
+                    "source-path": "c:\\users\\hamaxkrd\\desktop\\4.4 - hack\\universalhookx\\font\\litefont.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

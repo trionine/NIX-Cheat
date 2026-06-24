@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\obj\\Debug x64\\LiteFont.obj",
+            "outputs": [
+                ".\\obj\\Debug x64\\LiteFont.h_CFB8F2C4B944FDEC.ifc.dt.module.json",
+                ".\\obj\\Debug x64\\LiteFont.h_CFB8F2C4B944FDEC.ifc.dt.d.json",
+                ".\\obj\\Debug x64\\LiteFont.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\LB TOOLS\\NIX\\Brady-Hax-Dll\\UniversalHookX\\font\\LiteFont.h",
+                    "source-path": "d:\\lb tools\\nix\\brady-hax-dll\\universalhookx\\font\\litefont.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
