@@ -1,49 +1,13 @@
-# OS
-.DS_Store
-Thumbs.db
-*.swp
-*.swo
-
-# IDE
-.idea/
-.vscode/
-*.sublime-project
-*.sublime-workspace
-
-# Dependencies
-node_modules/
-vendor/
-bower_components/
+# Visual Studio user files
+.vs/
+*.user
+*.aps
 
 # Build output
-dist/
-build/
-out/
-target/
+UniversalHookX/bin/
 
-# Environment
-.env
-.env.local
-.env.*.local
+# Intermediate files (object files, build logs)
+UniversalHookX/obj/
 
-# Logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Cache
-.cache/
-.eslintcache
-.pnp.*
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-venv/
-.venv/
-*.egg-info/
-
-# Template-specific
+# Graphify output (AI-generated knowledge graph)
 /graphify-out
